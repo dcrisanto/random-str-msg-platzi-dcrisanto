@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-platzi-dcrisanto",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcrisanto/random-str-msg-platzi-dcrisanto.git"
+  },
+  "keywords": [],
+  "author": "Dorelly Crisanto <dorelly.crisanto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcrisanto/random-str-msg-platzi-dcrisanto"
+  },
+  "homepage": "https://github.com/dcrisanto/random-str-msg-platzi-dcrisanto",
+  "bin": {
+    "random-str-msg-platzi-dcrisanto": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
